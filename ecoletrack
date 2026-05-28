@@ -1,0 +1,39 @@
+# 🏫 ÉcoleTrack — Application Mac
+
+## 🖥️ Installation (application Mac native)
+
+### Méthode recommandée — Créer un .dmg installable
+
+**Étape 1 — Installer Node.js** (une seule fois)
+Allez sur **https://nodejs.org**, téléchargez la version **LTS** et installez-la.
+
+**Étape 2 — Double-cliquez sur `INSTALLER-MAC.command`**
+
+Si macOS bloque : clic droit → "Ouvrir" → "Ouvrir".
+
+Le script va automatiquement installer les dépendances, construire l'application et ouvrir le dossier `release/` avec votre `.dmg`.
+
+**Étape 3 — Installer l'application**
+- Double-cliquez sur **`ÉcoleTrack.dmg`**
+- Glissez l'icône dans **Applications**
+- Lancez depuis le Launchpad
+
+> À partir de là, plus jamais besoin du terminal.
+
+---
+
+### Méthode alternative — Lancement direct
+
+Double-cliquez sur **`LANCER-APP.command`** (nécessite Node.js installé).
+
+---
+
+## 💾 Données
+
+Stockées localement dans : `~/Library/Application Support/ÉcoleTrack/`
+
+---
+
+## 🎨 Couleurs par niveau
+
+CP → Jaune · CE1 → Orange · CE2 → Rouge · CM1 → Vert · CM2 → Bleu
