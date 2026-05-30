@@ -1,7 +1,7 @@
 {
-  "version": "17v",
-  "mac": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Mac-v17v.zip",
-  "windows": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Windows-v17v.zip",
+  "version": "17y",
+  "mac": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Mac-v17y.zip",
+  "windows": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Windows-v17y.zip",
   "date": "2026-05-29",
   "notes": "Fiche PDF, PAP dans Documents à sortir, tableau de bord simplifié"
 }
