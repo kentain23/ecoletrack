@@ -1,7 +1,7 @@
 {
-  "version": "v19k",
-  "mac": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Mac-v19k.zip",
-  "windows": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Windows-v19k.zip",
+  "version": "v19m",
+  "mac": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Mac-v19m.zip",
+  "windows": "https://github.com/kentain23/ecoletrack/releases/download/v17p/EcoleTrack-Windows-v19m.zip",
   "date": "2026-06-01",
   "notes": "edt + bilan de classe"
 }
